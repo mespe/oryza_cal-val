@@ -1,0 +1,14 @@
+State,Station name,station number,lat,long,ele,ORYZA prefix,Source
+LA,Sweet potato,1,32.1,-91.7,,usla,http://weather.lsuagcenter.com/
+LA,Rice Center (Crowley),2,30.22,-92.37,,usla,http://weather.lsuagcenter.com/
+MS,Stoneville,1,33.43,-90.91,,usms,www.deltaweather.msstate.edu
+MS,Lyon,2,34.22,-90.54,,usms,www.deltaweather.msstate.edu
+AR,Stuttgart,1,34.48,-91.42,,usar,http://www.ars.usda.gov/Main/Docs.htm?docid=23623
+AR,ASU,2,35.85,-90.69,,usar,http://www.ncdc.noaa.gov/data-access/land-based-station-data
+AR,Corning,3,36.4197,-90.5858,,usar,http://www.ncdc.noaa.gov/data-access/land-based-station-data
+CA,Durham,12,39.61,-121.82,130,usca,http://www.cimis.water.ca.gov/
+CA,Colusa,32,39.23,-122.02,55,usca,http://www.cimis.water.ca.gov/
+CA,Lodi West,166,38.13,-121.39,25,usca,http://www.cimis.water.ca.gov/
+CA ,Verona,235,38.8,-121.61,24,usca,http://www.cimis.water.ca.gov/
+TX,Beaumont,1,30.07,-94.302,,ustx,https://beaumont.tamu.edu/climaticdata/
+TX,Eagle Lake,2,29.6,-96.3446,,ustx,https://beaumont.tamu.edu/climaticdata/
